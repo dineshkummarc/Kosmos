@@ -105,7 +105,6 @@ Therefore, some amount of hand-crafting and artistically created content is need
 
 So for at least quite some time, I think most 3D worlds will need to have some aspect of human-guided design to be effectively interesting for games. This doesn't rule out procedurally generated content by any means, it just means you'll probably spend about as much time crafting procedural rules/equations as an artist would making it by hand anyway.
 
-
 ## Credits
 
 The following external open-source libraries were used in Kosmos:
@@ -119,5 +118,4 @@ All design and technologies of Kosmos (from UI/UX design and 3D engine implement
 ## License
 
 #### Kosmos is released as open source under [The BSD License](https://github.com/judnich/Kosmos/blob/master/LICENSE).
-
 #### Copyright (C) 2013 John Judnich. All Rights Reserved.
